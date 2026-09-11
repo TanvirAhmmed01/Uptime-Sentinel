@@ -2,7 +2,7 @@
 
 A self-hosted website monitoring tool in a single Python file. It checks whether your sites are up, records every check in SQLite, warns you before TLS certificates expire, and emails you the moment a site goes down or comes back.
 
-No frameworks, no `pip install`, no config files — just the Python standard library.
+
 
 ---
 
